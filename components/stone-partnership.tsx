@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { PricingPlans } from "./pricing-plans"
 import Link from "next/link"
-import { Facebook, Instagram, Linkedin, InstagramIcon as TiktokIcon, Youtube } from 'lucide-react'
 
 export function StonePartnership() {
   return (
